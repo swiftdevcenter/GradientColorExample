@@ -1,5 +1,5 @@
 # GradientColorExample
-CAGradientLayer Tutorial Swift 4.2
+CAGradientLayer Tutorial by Example Swift 4.2
 
 
 
